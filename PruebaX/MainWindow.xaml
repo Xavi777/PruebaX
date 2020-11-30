@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Hola Mundo by Javi" FontSize="30" HorizontalAlignment="Center"/>
+        <Button Content="Boton" Height="200"/>
     </Grid>
 </Window>
